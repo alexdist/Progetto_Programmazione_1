@@ -9,8 +9,8 @@ Questo repository contiene i progetti sviluppati durante il corso di **Programma
    Simulatore del gioco del golf.
 
 ## Documentazione
-- [Relazione del progetto (PDF)](docs/Pr_Di_Stefano_Alessandro.pdf)
-- [Index interattivo (HTML)](docs/index.html)
+- [Relazione del progetto (PDF)](Progetto_Programmazione_1/docs/Pr_Di_Stefano_Alessandro.pdf)
+- [Index interattivo (HTML)](Progetto_Programmazione_1/docs/index.html)
 
 ## Requisiti
 - **Linguaggio**: C
