@@ -3,9 +3,9 @@
 Questo repository contiene i progetti sviluppati durante il corso di **Programmazione 1** presso l'Università Parthenope di Napoli.  
 
 ## Contenuti del Repository
-1. **[Gestione Magazzino](Gestione_Magazzino/README.md)**  
+1. **[Gestione Magazzino](Progetto_Programmazione_1/Gestione_Magazzino/README.md)**  
    Sistema per la gestione di un magazzino virtuale.
-2. **[Gioco del Golf](Gioco_del_Golf/README.md)**  
+2. **[Gioco del Golf](Progetto_Programmazione_1/Gioco_del_Golf/README.md)**  
    Simulatore del gioco del golf.
 
 ## Documentazione
